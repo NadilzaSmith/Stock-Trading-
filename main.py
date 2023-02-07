@@ -8,8 +8,8 @@ COMPANY_NAME = "AMC Entertainment Holdings Inc"
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
 
-api_key = "YCMQ6DKJEP1G08KL"
-api_key_news = "cf3a27fe88354733a780c5d7ff162fc7"
+api_key = YOUR_API_KEY
+api_key_news = YOUR_API_NEWS
 
 parameters = {
     "function": "TIME_SERIES_DAILY_ADJUSTED",
